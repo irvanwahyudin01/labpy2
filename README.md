@@ -1,6 +1,17 @@
 # LAPORAN PERTEMUAN 5
 Nama : Irvan Wahyudin <br>
 Nim : 312510359
+# DAFTAR LAPORAN
+<ol>
+  <li>Latihan If ... Else</li>
+  &nbsp;&nbsp;Latihan1<br>
+  &nbsp;&nbsp;Latihan2
+  <li>Latihan Perulangan</li>
+   &nbsp;&nbsp;Latihan1<br>
+  &nbsp;&nbsp;Latihan2
+  <li>Praktikum Kalkulator</li>
+  <li>Praktikum Tiket Bioskop</li>
+</ol>
 <h2>KONDISI IF</h2>
 <h3>LATIHAN 1</h3>
 <table boder="0"><tr><td valign="top"><h3>DALAM FLOWCHART</h3>
