@@ -1,5 +1,5 @@
 a=int(input("inputkan bilangan pertama : "))
-b=int(input("inputkan bilangan pertama : "))
+b=int(input("inputkan bilangan kedua   : "))
 
 print("list  operasi")
 print("1. Tambah")
