@@ -40,10 +40,10 @@ Nim : 312510359
 <p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.1.jpg" width="250" height="150"><li>Pada gambar diatas kita membuat 3 variabel yang di inputkan user yaitu a,b dan c.</li></p>
 <p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.2.jpg" width="250" height="150"><li>Selanjutnya kita tetapkan variable tersebut dengan tipe data integer/bilangan.</li></p> <br> 
 <<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.3.jpg" width="250" height="150">
-<li>Digambar ini, kita memnentukan variabel mana yang nilainya besar dan jika true kita membuat .</li>
+<li>Digambar ini, kita memnentukan variabel mana yang nilainya besar dan jika true kita membuat variabel baru yaitu k dan kita isi variabel baru dengan variabel yang di input dari terkecil hingga terbesar.</li>
 <img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.4.jpg" width="250" height="150">
-<li>Kita menggunakan if .. elif untuk menentukanya yaitu membuat syarat yang harus dipenuhi jika bariavel tersebut terbesar "a>b and a>c and a>d" artinya untuk menjalankan kondisi ini a harus besar lebih dari variable lain baru "print a terbesar".</li>
-<li>Dan perintah else jika semua nilai sama .</li></ol>
+<li>Terakhir kita panggil variabel k tersebut dikarenakan isinya himpunan nilai dari terkecil hingga terbesar jadi kita gunakan perulangan untuk menampilkannya dan code end = ' ' artinya memberi format ke samping .</li>
+</ol>
 <h3>DOKUMENTASI SAAT PROGRAM DIJALANKAN</h3>
 <P><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.4.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.4.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.5.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.6.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.7.jpg" width="250" height="150"></P>
