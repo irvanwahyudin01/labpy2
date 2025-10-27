@@ -14,13 +14,9 @@ Nim : 312510359
 </ol>
 <h2>LATIHAN IF ... ELSE</h2>
 <h3>LATIHAN 1</h3>
-<table boder="0"><tr><td valign="top">
-<h3>DALAM FLOWCHART</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihanfc1.jpg" width="200" height="450">
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihanfc1.1.jpg" width="200" height="450"></td>
-<td valign="top">
+
 <h3>DALAM PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.jpg" width="450" height="450"></td></tr></table>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.jpg" width="230" height="350">
 <h3>PENJELASAN SETIAP CODE</h3>
 <ol><p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.1.jpg" width="250" height="150">
 <li>Pada gambar diatas kita membuat 4 variabel yang di inputkan user yaitu a,b,c dan d.</li></p>
@@ -34,11 +30,9 @@ Nim : 312510359
 <img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.5.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.6.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan1.7.jpg" width="250" height="150"></P>
 
 <h3>LATIHAN 2</h3>
-<table boder="0"><tr><td valign="top"><h3>DALAM FLOWCHART</h3>
-<!-- <img src="" width="350" height="450">
-<img src="" width="350" height="450"></td> -->
-<td valign="top"><h3>DALAM PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.jpg" width="450" height="450"></td></tr></table>
+
+<h3>DALAM PYHTON</h3>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.jpg" width="250" height="350">
 <h3>PENJELASAN SETIAP CODE</h3><ol>
 <p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.1.jpg" width="250" height="150"><li>Pada gambar diatas kita membuat 3 variabel yang di inputkan user yaitu a,b dan c.</li></p>
 <p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihan2.2.jpg" width="250" height="150"><li>Selanjutnya kita tetapkan variable tersebut dengan tipe data integer/bilangan.</li></p> <br> 
@@ -54,11 +48,8 @@ Nim : 312510359
 
 <h2>LATIHAN PERULANGAN</h2>
 <h3>LATIHAN 1</h3>
-<table boder="0"><tr><td valign="top"><h3>DALAM FLOWCHART</h3>
-<!---<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihanfc1.jpg" width="200" height="450"> 
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/Perulangan/LATIHAN1.jpg" width="200" height="450"></td> -->
-<td valign="top"><h3>DALAM PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/Perulangan/LATIHAN1.jpg" width="450" height="450"></td></tr></table>
+<h3>DALAM PYHTON</h3>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/Perulangan/LATIHAN1.jpg" width="450" height="450">
 <h3>PENJELASAN SETIAP CODE</h3><ol>
 <P><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/Perulangan/LATIHAN1.jpg" width="250" height="150">
 <li>for pertama untuk membuat baris dan for kedua untuk membuat kolom.</li>
@@ -88,8 +79,8 @@ Nim : 312510359
 <h2>PRAKTIKUM KALKULATOR</h2>
 <table boder="0"><tr><td valign="top">
 <h3>DALAM FLOWCHART</h3>
-<!-- <img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihanfc1.jpg" width="200" height="450">
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihanfc1.1.jpg" width="200" height="450">--></td>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulatorfc1.jpg" width="200" height="450">
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulatorfc2.jpg" width="200" height="450"></td>
 <td valign="top">
 <h3>DALAM PYHTON</h3>
 <img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.jpg" width="450" height="450"></td></tr></table>
@@ -107,8 +98,7 @@ Nim : 312510359
 <h2>PRAKTIKUM TIKET BIOSKOP</h2>
 <table boder="0"><tr><td valign="top">
 <h3>DALAM FLOWCHART</h3>
-<!-- <img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihanfc1.jpg" width="200" height="450">
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/kondisi_if/latihanfc1.1.jpg" width="200" height="450">--></td>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiketfc1.jpg" width="200" height="450"></td>
 <td valign="top">
 <h3>DALAM PYHTON</h3>
 <img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.jpg" width="450" height="450"><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket2.jpg" width="450" height="450"></td></tr></table>
