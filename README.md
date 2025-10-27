@@ -106,7 +106,7 @@ Nim : 312510359
 <ol><p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.1.jpg" width="250" height="150">
 <li>pertama kita buat 2 variabel tr(tiket reguler) dan tv(tiket vip) sesuai yang ditetapkan.</li></p>
 <p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.2.jpg" width="250" height="150"><li>selanjutnya kita tampilkan list daftar harga sebelum user memilihnya.</li></p> <br> 
-<P><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.3.jpg" width="250" height="150">
+<P><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.3.jpg" width="450" height="350">
 <li>dan kita buat inputan untuk si user pilihan tiket,jumlah tiket, dan mempunyai member atau tidak.</li>
 <li>untuk perintah member kita langsung beri kondisi menggunakan operator tenary agar variabel tersebut langsung mempunyai nilai true atau false.</li>
 </p>
@@ -114,7 +114,7 @@ Nim : 312510359
 <li>setelah itu kita beri kondisi pada setiap tiket dan didalam kondisi tiket juga kita beri kondisi yang sudah tadi di lakukan sebelumnya jadi jika dia mempunyai member program akan menghitung diskon jika tidak harga tetap/ hanya hitung jumlah pesan tiket.</li></p>
 <p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.5.jpg" width="250" height="150">
 <li>lanjut kita tampilkan total,diskon,dan total bayarnya user pada setiap variabel yang sudah dibuat diatas.</li></p>
-<p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.6.jpg" width="250" height="150">
+<p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.6.jpg" width="400" height="350">
 <li>terakhir saya tambahkan perulangan untuk ingin membeli kembali atau tidak.</li></p></ol>
 <h3>DOKUMENTASI SAAT PROGRAM DIJALANKAN</h3>
 <P><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.7.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.8.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
