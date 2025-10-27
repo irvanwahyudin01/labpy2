@@ -79,15 +79,15 @@ Nim : 312510359
 <h2>PRAKTIKUM KALKULATOR</h2>
 <table boder="0"><tr><td valign="top">
 <h3>DALAM FLOWCHART</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulatorfc1.jpg" width="200" height="450">
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulatorfc2.jpg" width="200" height="450"></td>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulatorfc1.jpg" width="350" height="450"><br>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulatorfc2.jpg" width="350" height="450"></td>
 <td valign="top">
 <h3>DALAM PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.jpg" width="450" height="450"></td></tr></table>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.jpg" width="350" height="450"></td></tr></table>
 <h3>PENJELASAN SETIAP CODE</h3>
-<ol><p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.1.jpg" width="250" height="150">
+<ol><p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.1.jpg" width="350" height="150">
 <li>pertama kita buat 2 variabel dengan inputan user.</li></p>
-<p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.2.jpg" width="250" height="150"><li>selanjutnya kita tampilkan list operasi mana yang ingin di gunakan pada user dan kita buat variabel 1 lagi untuk user memasukan pilihanya.</li></p> <br> 
+<p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.2.jpg" width="350" height="150"><li>selanjutnya kita tampilkan list operasi mana yang ingin di gunakan pada user dan kita buat variabel 1 lagi untuk user memasukan pilihanya.</li></p> <br> 
 <P><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/kalkulator1.3.jpg" width="250" height="150">
 <li>langsung eksekuasi setiap kondisi setiap list yang user pilih kemudian kita tempatkan hasil dari operasi tersebut kedalam variable cdan tampilkan hasil dari operasi tersebut dengan memanggil variabel h.</li>
 </p></ol>
@@ -98,10 +98,10 @@ Nim : 312510359
 <h2>PRAKTIKUM TIKET BIOSKOP</h2>
 <table boder="0"><tr><td valign="top">
 <h3>DALAM FLOWCHART</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiketfc1.jpg" width="200" height="450"></td>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiketfc1.jpg" width="350" height="450"></td>
 <td valign="top">
 <h3>DALAM PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.jpg" width="450" height="450"><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket2.jpg" width="450" height="450"></td></tr></table>
+<img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.jpg" width="350" height="450"><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket2.jpg" width="350" height="450"></td></tr></table>
 <h3>PENJELASAN SETIAP CODE</h3>
 <ol><p><img src="https://github.com/irvanwahyudin01/labpy2/blob/main/pic_praktikum/tiket1.1.jpg" width="250" height="150">
 <li>pertama kita buat 2 variabel tr(tiket reguler) dan tv(tiket vip) sesuai yang ditetapkan.</li></p>
